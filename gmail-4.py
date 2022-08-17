@@ -81,4 +81,4 @@ if do == '2':
     instance.get_pass_list(senha)
 
     instance.try_gmail()
-    sleep(3)
+    sleep(3);
